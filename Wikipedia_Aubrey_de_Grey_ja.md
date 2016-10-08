@@ -21,19 +21,22 @@
 
 ### 戦略
 
+デ・グレイは、老化防止用医薬品を開発するためのほとんどの基本的な知識は、既に存在する。そして、その老化防止のための科学は、資金調達の段階に進む、と主張している。彼は、老化のいくつかの側面の逆転するための、特別で科学的なアプローチを確立、促進するために仕事をしている。彼は「メタボリズムにより蓄積される副作用は、最終的に私たちを死に至らしめる。」と主張している。
+
+
 ### 老化の前段階におけるトランス状態
 
 ### SENS研究財団の設立
 
 ### 老化に影響を及ぼす７種類のダメージ
 
-1. Mutations – in Chromosomes causing cancer due to nuclear mutations/epimutations:
-2. Mutations – in Mitochondria:
-3. Junk – inside of cells, aka intracellular aggregates:
-4. Junk – outside of cells, aka extracellular aggregates:
-5. Cells – too few, aka cellular loss:
-6. Cells – too many, aka cellular senescence:
-7. Extracellular protein crosslinks:
+1. 突然変異 - 原子核の突然変異、又はDNAの塩基配列に影響を与えない突然変異による、癌を引き起こす、染色体内の突然変異
+2. 突然変異 - ミトコンドリア内の突然変異
+3. 劣化物 - 細胞の内側の劣化物、または細胞内の集合体の劣化物
+4. 劣化物 - 細胞の外側の劣化物、または細胞外の集合体の劣化物
+5. 細胞 - 少なすぎる細胞、または細胞の消失
+6. 細胞 - 多すぎる細胞、または細胞の老化
+7. 細胞外の橋渡し用タンパク質
 
 ### 極低温科学
 
